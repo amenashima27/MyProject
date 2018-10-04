@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice Total", "Invoice Total\Invoice Total.csproj", "{CC64618E-266C-43F1-8D2E-48D013469C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC64618E-266C-43F1-8D2E-48D013469C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC64618E-266C-43F1-8D2E-48D013469C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC64618E-266C-43F1-8D2E-48D013469C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC64618E-266C-43F1-8D2E-48D013469C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8625B03A-13C6-4D21-8D33-C97D8058595D}
+	EndGlobalSection
+EndGlobal

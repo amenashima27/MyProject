@@ -1,0 +1,21 @@
+E:\project\New folder\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe.config
+E:\project\New folder\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe
+E:\project\New folder\Invoice Total\Invoice Total\bin\Debug\Invoice Total.pdb
+E:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csprojAssemblyReference.cache
+E:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.frmInvoiceTotal.resources
+E:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.Properties.Resources.resources
+E:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.GenerateResource.cache
+E:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.CoreCompileInputs.cache
+E:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.exe
+E:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.pdb
+D:\project\New folder\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe.config
+D:\project\New folder\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe
+D:\project\New folder\Invoice Total\Invoice Total\bin\Debug\Invoice Total.pdb
+D:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csprojAssemblyReference.cache
+D:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.frmInvoiceTotal.resources
+D:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.Properties.Resources.resources
+D:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.GenerateResource.cache
+D:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.CoreCompileInputs.cache
+D:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.exe
+D:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice Total.pdb
+D:\project\New folder\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.frmAboutMe.resources
